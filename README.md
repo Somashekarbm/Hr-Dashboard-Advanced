@@ -31,7 +31,13 @@ A modern, responsive HR Dashboard for managing employee performance, bookmarks, 
 
 ## 📸 Screenshots
 
-> Add your screenshots here after running the app!
+![AnalyticsTab](assets/AnalyticsTab.png)
+![BookmarkTab](assets/BookmarkTab.png)
+![CreateEmployee](assets/CreateEmployee.png)
+![EmployeeProfile](assets/EmployeeProfile.png)
+![LoginPage](assets/LoginPage.png)
+![MainDashBoard](assets/MainDashBoard.png)
+
 
 ---
 

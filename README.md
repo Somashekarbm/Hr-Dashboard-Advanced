@@ -31,13 +31,23 @@ A modern, responsive HR Dashboard for managing employee performance, bookmarks, 
 
 ## 📸 Screenshots
 
-![AnalyticsTab](assets/AnalyticsTab.png)
-![BookmarkTab](assets/BookmarkTab.png)
-![CreateEmployee](assets/CreateEmployee.png)
-![EmployeeProfile](assets/EmployeeProfile.png)
+### Login Page
 ![LoginPage](assets/LoginPage.png)
+
+### Main Dashboard
 ![MainDashBoard](assets/MainDashBoard.png)
 
+### Employee Profile
+![EmployeeProfile](assets/EmployeeProfile.png)
+
+### Create Employee
+![CreateEmployee](assets/CreateEmployee.png)
+
+### Bookmark Tab
+![BookmarkTab](assets/BookmarkTab.png)
+
+### Analytics Tab
+![AnalyticsTab](assets/AnalyticsTab.png)
 
 ---
 
@@ -46,8 +56,8 @@ A modern, responsive HR Dashboard for managing employee performance, bookmarks, 
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/hr-dashboard.git
-cd hr-dashboard
+git clone https://github.com/Somashekarbm/Hr-Dashboard-Advanced.git
+cd hr-dashboard-advanced
 ```
 
 ### 2. **Install Dependencies**

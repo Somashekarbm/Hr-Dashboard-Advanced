@@ -83,18 +83,13 @@ app/
 
 ---
 
-## 🌟 Bonus Features (Optional)
+## 🌟 Bonus Features
 
 - **Authentication**: Add NextAuth.js or a mock login screen.
 - **Create User**: Modal or page with form validation.
 - **Pagination/Infinite Scroll**: For main user list.
 - **Animations**: Tab/content transitions (Framer Motion or Tailwind).
 
----
-
-## 📝 License
-
-MIT
 
 ---
 
@@ -103,6 +98,7 @@ MIT
 - [DummyJSON](https://dummyjson.com/) for user data
 - [Chart.js](https://www.chartjs.org/)
 - [Lucide Icons](https://lucide.dev/)
+- [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction)
 
 ---
 
